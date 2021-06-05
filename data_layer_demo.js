@@ -15,3 +15,5 @@ Users();
 }*/
 
 //let dataCoursesAll = ContentfulAPI.coursesAll();
+
+//console.log(dataCoursesAll);
